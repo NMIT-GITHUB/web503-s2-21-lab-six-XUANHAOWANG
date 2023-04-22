@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/alikahwaji/Lab-template#readme",
   "dependencies": {
-    "firebase": "^9.4.1",
+    "firebase": "^9.20.0",
     "firebase-admin": "^10.0.0",
     "i": "^0.3.7"
   }
